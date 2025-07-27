@@ -33,18 +33,20 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhosh050706&show_icons=true&theme=radical" alt="Santhosh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santhosh-l-code&show_icons=true&theme=radical" alt="Santhosh's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh050706&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=santhosh-l-code&theme=radical" alt="GitHub Streak" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-l-code&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 ### 🔗 Connect with Me
 
