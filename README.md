@@ -15,7 +15,7 @@
 - 🛠️ Building: Scalable backend apps using Java Spring ecosystem
 - 💬 Ask me about **Java | Spring Boot | REST APIs | SQL**
 - 🧠 I’m exploring AI and full-stack development
-- 📫 Reach me: **santhosh@example.com** *(replace with your actual email)*
+- 📫 Reach me: **santhoshl.dev2006@gmail.com** 
 
 ---
 
