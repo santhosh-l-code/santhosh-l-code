@@ -70,7 +70,7 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/santhoshl05/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/santhoshl05/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:santhoshl.dev2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
